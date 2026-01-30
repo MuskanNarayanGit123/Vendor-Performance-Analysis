@@ -151,4 +151,3 @@ python scripts/get_vendor_summary.py
 - Reprice slow-moving, high-margin brands
 - Clear unsold inventory strategically
 - Improve marketing for underperforming vendors
-- 
